@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Hey+there+%F0%9F%91%8B+I'm+Raven+%F0%9F%A6%85;Software+Engineer+%7C+iOS+Dev+%7C+ERP+Wizard)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Hey+there+%F0%9F%91%8B+I'm+Raven+%F0%9F%A6%85;Software+Engineer+%7C+iOS+Dev+%7C+ERP+Wizard)](https://git.io/typing-svg)
 
 <!-- Subtitle -->
 <p>
@@ -61,10 +61,6 @@ fun_fact: 我跑的很慢，但我的思想飛得很快。
 ## 📊 GitHub Stats ｜ 數據面板
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryan-Focus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Focus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" />
-
 <br/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ryan-Focus&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF)](https://git.io/streak-stats)
@@ -102,7 +98,7 @@ fun_fact: 我跑的很慢，但我的思想飛得很快。
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ryan--Focus-181717?style=for-the-badge&logo=github)](https://github.com/Ryan-Focus)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryan.t18910@gmail.com)
 
 </div>
 
