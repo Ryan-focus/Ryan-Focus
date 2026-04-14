@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Hey+there+%F0%9F%91%8B+I'm+Raven+%F0%9F%A6%85;Software+Engineer+%7C+iOS+Dev+%7C+ERP+Wizard)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=800&height=60&lines=Hey+there+%F0%9F%91%8B+I'm+Raven+%F0%9F%A6%85;Software+Engineer+%7C+iOS+Dev+%7C+ERP+Wizard)](https://git.io/typing-svg)
 
 <!-- Subtitle -->
 <p>
@@ -15,16 +15,16 @@
 
 ---
 
-## 🦅 About Me ｜ 關於我
+## About Me ｜ 關於我
 
 ```yaml
-name: Raven QIU
+name: Raven Qiu
 location: Taiwan 🇹🇼
 role: Software Engineer
-focus: iOS Development 
+focus: ERP Systems / iOS Development / OT-IT Integration
 motto: "把夢寫成 Code，讓 Code 實現夢。"
 currently_learning: Cloud Computing & IoT
-fun_fact: 我跑的很慢，但我的思想飛得很快。
+fun_fact: 我白天寫 ERP，晚上寫 App，週末寫夢
 ```
 
 ---
@@ -33,20 +33,20 @@ fun_fact: 我跑的很慢，但我的思想飛得很快。
 
 <div align="center">
 
-#### 📱 Mobile
+#### Mobile
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
-#### 🌐 Web & Backend
+#### Web & Backend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-C74634?style=for-the-badge&logo=oracle&logoColor=white)
 
-#### 🔧 Tools & Platforms
+#### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -58,42 +58,46 @@ fun_fact: 我跑的很慢，但我的思想飛得很快。
 
 ---
 
-## 📊 GitHub Stats ｜ 數據面板
+## GitHub Stats ｜ 數據面板
 
 <div align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ryan-Focus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ryan-Focus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" />
+
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ryan-Focus&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ryan-Focus&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🎯 Currently ｜ 現在進行式
+## Currently ｜ 現在進行式
 
-- 🔭 **Working on：** ERP 跨境系統遷移 & OT/IT 整合
-- 🌱 **Learning：** 雲端運算與物聯網（CCU 數位學程）
-- 📱 **Building：** DreamScript — 一款用 AI 記錄夢境的 iOS App
-- ☕ **Fueled by：** 咖啡、好奇心、和一點點執念
+-  **Working on：** ERP 跨境系統遷移 & OT/IT 整合
+-  **Learning：** 雲端運算與物聯網（CCU 數位學程）
+-  **Building：** DreamScript — 一款用 AI 記錄夢境的 iOS App (審核中...)
+-  **Fueled by：** 咖啡、健身
 
 ---
 
-## 🎲 Fun Zone ｜ 有趣的角落
+##  Fun Zone ｜ 有趣的角落
 
 <div align="center">
 
-| 🎮 興趣 | 📖 狀態 |
+|  興趣 |  狀態 |
 |:---:|:---:|
-| 🍵 泡茶配 Code | ✅ 日常 |
-| 🌙 記錄夢境 | ✅ DreamScript 開發中 |
-| 🐛 Debug 到天亮 | ⚠️ 偶爾發生 |
-| 🤖 跟 AI 聊天 | ✅ 你現在就在看 |
+|  咖啡配 Code   | ✅ 日常 |
+|  記錄夢境      | ✅ DreamScript 開發中 |
+|  Debug 到天亮  | ⚠️ Never |
+|  跟 AI 聊天    | ✅ 你現在就在看 |
 
 </div>
 
 ---
 
-## 📬 Connect ｜ 聯絡我
+## Connect ｜ 聯絡我
 
 <div align="center">
 
@@ -108,6 +112,6 @@ fun_fact: 我跑的很慢，但我的思想飛得很快。
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
 
-<sub>⚡ Built with passion & curiosity ｜ 用熱情與好奇心打造 ⚡</sub>
+<sub> Built with passion & curiosity ｜ 用熱情與好奇心打造 </sub>
 
 </div>
