@@ -77,7 +77,7 @@ fun_fact: 我白天寫 ERP，晚上寫 App，週末寫夢
 
 -  **Working on：** ERP 跨境系統遷移 & OT/IT 整合
 -  **Learning：** 雲端運算與物聯網（CCU 數位學程）
--  **Building：** DreamScript — 一款用 AI 記錄夢境的 iOS App (審核中...)
+-  **Shipped：** DreamScript — 一款用 AI 記錄夢境的 iOS App，已正式上架！
 -  **Fueled by：** 咖啡、健身
 
 ---
@@ -89,9 +89,28 @@ fun_fact: 我白天寫 ERP，晚上寫 App，週末寫夢
 |  興趣 |  狀態 |
 |:---:|:---:|
 |  咖啡配 Code   | ✅ 日常 |
-|  記錄夢境      | ✅ DreamScript 開發中 |
+|  記錄夢境      | ✅ DreamScript 已上架 |
 |  Debug 到天亮  | ⚠️ Never |
 |  跟 AI 聊天    | ✅ 你現在就在看 |
+
+</div>
+
+---
+
+## 📱 DreamScript ｜ 夢事典
+
+<div align="center">
+
+**用 AI 記錄、解析你的每一個夢境**
+
+[![App Store](https://img.shields.io/badge/App_Store-已上架-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/tw/app/dreamscript-%E5%A4%A2%E4%BA%8B%E5%85%B8/id6761034036)
+[![Google Play](https://img.shields.io/badge/Google_Play-封測募集中-34A853?style=for-the-badge&logo=google-play&logoColor=white)](mailto:ryan.t18910@gmail.com?subject=DreamScript%20Google%20Play%20封測申請&body=稱呼：%0A%0AEmail：)
+
+> 🍎 **iOS**：已正式上架 App Store，歡迎下載體驗！
+>
+> 🤖 **Android**：Google Play 封測募集中！  
+> 有興趣參與封測的朋友，請來信提供 **稱呼** 與 **Email**，即可取得測試資格。  
+> 聯絡信箱：[ryan.t18910@gmail.com](mailto:ryan.t18910@gmail.com)
 
 </div>
 
